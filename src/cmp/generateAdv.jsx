@@ -12,9 +12,9 @@ const AdviceGenerator = () => {
   const handleFetchError = () => {
     const messages = [
       'Hwoops, something happened',
-      'oh for f*** sake man, when is the next error coming?',
+      'oh for god sake man, when is the next error coming?',
       "come ON, that's it, I won't be too nice the next time",
-      "that's it, get the f*** off my site",
+      "that's it, get the flip off my site",
     ];
 
     if (errorCount < 4) {
