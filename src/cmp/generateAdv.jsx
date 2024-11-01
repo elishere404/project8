@@ -14,7 +14,7 @@ const AdviceGenerator = () => {
       'Hwoops, something happened',
       'oh for f*** sake man, when is the next error coming?',
       "come ON, that's it, I won't be too nice the next time",
-      "That's it, f*** off my site",
+      "that's it, get the f*** off my site",
     ];
 
     if (errorCount < 4) {
